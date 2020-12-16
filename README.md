@@ -1,16 +1,13 @@
-# first_app
+# Dummy Quiz
 
-A new Flutter application.
+A simple flutter aplication for understanding the basics of flutter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Prerequisites
+  ### Flutter and dart Installed (refer: https://flutter.dev/docs/get-started/install)
+  ### Android Studio with an emulator set up (refer: https://flutter.dev/docs/get-started/test-drive?tab=androidstudio & https://developer.android.com/studio/run/managing-avds)
+  
+# Steps
+  ### Create a new Flutter Project in Android Studio
+  ### Replace the /lib directory with the ones in this repo
+  ### Launch you Android emulator
+  ### run /lib/main.dart to start the app
